@@ -2,5 +2,7 @@ package demo.test;
 
 public class Hello {
 	
-	String test ;
+	public static void main(java.lang.String[] args) {
+		System.out.println("hi");
+	}
 }
